@@ -1,0 +1,1884 @@
+2025-05-14 00:00:07 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:00:08 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:00:08 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:00:09 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:00:20 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:00:21 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:00:21 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:00:21 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:00:33 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:00:34 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:00:34 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:00:34 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:00:46 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:00:47 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:00:47 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:00:47 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:00:57 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:00:58 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:00:58 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:00:59 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:01:09 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:01:10 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:01:10 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:01:11 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:01:33 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:01:34 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:01:34 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:01:34 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:04:07 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:04:08 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:04:08 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:04:09 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:06:37 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:06:39 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:06:39 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:06:39 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:07:12 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:07:13 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:07:13 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:07:14 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:11:41 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:11:42 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:11:42 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:11:43 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:12:05 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:12:10 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 00:12:12 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:12:12 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:12:12 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:12:12 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-14 00:12:14 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 00:12:14 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:12:14 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:12:14 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:12:14 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-14 00:13:17 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:13:18 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:13:18 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:13:18 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:13:38 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 00:13:39 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:13:39 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:13:39 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:13:39 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-14 00:13:40 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 00:13:42 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:13:42 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:13:42 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:13:42 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-14 00:15:27 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:15:28 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:15:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:15:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 2248
+Загальна вантажна місткість: 225167.0
+
+2025-05-14 00:15:53 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:15:57 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 00:16:02 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:16:02 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:16:02 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:16:05 [INFO ] manager.LoggerManager - Літак з ID 99 видалений.
+2025-05-14 00:16:05 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:16:05 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:16:05 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:23:59 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:24:00 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:24:00 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:24:00 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:24:20 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:24:23 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 00:24:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:24:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:24:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:24:28 [INFO ] manager.LoggerManager - Літак з ID 99 видалений.
+2025-05-14 00:24:28 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:24:28 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:24:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:25:25 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:25:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:25:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:25:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:25:28 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:26:04 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:26:08 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 00:26:10 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 00:26:10 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:26:10 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:26:10 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 2248
+Загальна вантажна місткість: 225167.0
+
+2025-05-14 00:26:52 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:26:53 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:26:53 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:26:53 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:26:55 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 00:27:01 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 00:27:05 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 00:27:49 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:27:50 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:27:50 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:27:50 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:27:52 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 00:27:55 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:27:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:27:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:27:57 [INFO ] manager.LoggerManager - Літак з ID 99 видалений.
+2025-05-14 00:27:57 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:27:57 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:27:57 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:29:34 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:29:35 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:29:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:29:35 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:29:37 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:29:40 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:29:43 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 00:29:44 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 00:29:44 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:29:44 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:29:44 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:29:45 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 00:29:48 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 2248
+Загальна вантажна місткість: 225167.0
+
+2025-05-14 00:32:43 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:32:44 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:32:44 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:32:45 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:35:30 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:35:31 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:35:32 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:35:32 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:35:43 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 00:35:46 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:36:15 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:36:16 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:36:16 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:36:16 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:36:45 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:36:49 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 00:36:52 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 00:36:52 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:36:52 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:36:52 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:36:53 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 00:36:55 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 2248
+Загальна вантажна місткість: 225167.0
+
+2025-05-14 00:40:28 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:40:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:40:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:40:30 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:40:33 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 00:40:39 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:40:39 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:40:39 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:40:47 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 00:40:47 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:40:47 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:40:47 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:43:20 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:43:21 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:43:21 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:43:21 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:43:27 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:43:42 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 00:43:46 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:43:46 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:43:46 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:43:49 [INFO ] manager.LoggerManager - Літак з ID 988 видалений.
+2025-05-14 00:43:49 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:43:49 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:43:49 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:45:14 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:45:15 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:45:15 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:45:16 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:46:10 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:46:11 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:46:11 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:46:11 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:51:08 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 00:51:09 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:51:09 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:51:10 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:51:46 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 00:52:04 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:52:04 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:52:04 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:52:04 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: апр
+2025-05-14 00:52:04 [INFO ] manager.LoggerManager - Літак доданий: апр
+2025-05-14 00:52:04 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:52:04 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:52:04 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:52:09 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 00:52:14 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:52:14 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:52:14 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:52:14 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 14
+2025-05-14 00:52:14 [INFO ] manager.LoggerManager - Літак з ID 14 видалений.
+2025-05-14 00:52:14 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:52:14 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:52:14 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:52:18 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 00:52:18 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:52:18 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:52:18 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:52:19 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 00:52:21 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:52:21 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:52:21 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:52:21 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-14 00:52:25 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 00:52:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:52:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:52:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:52:26 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-14 00:52:29 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 00:52:36 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:52:36 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:52:36 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173.0
+
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Натиснута кнопка 'Зберегти у файл'
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: aircraft_data.csv
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: aircraft_data.csv
+2025-05-14 19:55:13 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 19:55:15 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 19:55:15 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 19:55:15 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 19:55:52 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 19:55:55 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 19:55:57 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 19:55:59 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 19:56:01 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 19:56:01 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 19:56:01 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 19:56:01 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-14 19:56:04 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 19:56:06 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 19:56:06 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 19:56:06 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 19:56:06 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-14 19:56:08 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 19:56:16 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 19:56:16 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 19:56:16 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173.0
+
+2025-05-14 20:06:31 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:06:32 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:06:32 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:06:33 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:11:50 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:11:52 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:11:52 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:11:52 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:13:10 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:13:11 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:13:11 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:13:11 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:13:24 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 20:18:47 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:18:49 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:18:49 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:18:50 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:18:52 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:19:10 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:19:14 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 20:19:16 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:19:16 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:19:16 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:19:18 [INFO ] manager.LoggerManager - Літак з ID 99 видалений.
+2025-05-14 20:19:18 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:19:18 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:19:18 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:27:26 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:27:28 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:27:28 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:27:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:27:44 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 20:27:44 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:27:44 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:27:44 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:27:46 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 20:33:24 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:33:25 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:33:25 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:33:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:33:29 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:33:29 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:34:33 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:34:34 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:34:34 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:34:35 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:35:06 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:35:06 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:35:09 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 20:35:09 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:35:14 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 20:35:14 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:35:14 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:35:14 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:35:15 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 20:35:17 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:36:20 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:36:21 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:36:21 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:36:22 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:36:24 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 20:36:24 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:36:24 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:36:24 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:37:05 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:37:06 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:37:06 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:37:06 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:37:08 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 20:37:08 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:38:35 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:38:36 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:38:36 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:38:37 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:38:39 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:38:39 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:38:41 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 20:38:41 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:38:43 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 20:38:43 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:38:43 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:38:43 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:38:45 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 20:38:45 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:38:47 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 20:38:47 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Натиснута кнопка 'Зберегти у файл'
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: aircraft_data.csv
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: aircraft_data.csv
+2025-05-14 20:39:48 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:39:50 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:39:50 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:39:50 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:39:53 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 20:39:53 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:39:56 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 20:39:56 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:41:08 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:41:09 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:41:09 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:41:09 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:41:12 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 20:41:12 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:41:44 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:41:45 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:41:45 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:41:46 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:42:25 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:42:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:42:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:42:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:42:30 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 20:42:30 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:42:33 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:42:33 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:42:33 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:42:33 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-14 20:43:04 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:43:05 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:43:05 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:43:05 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:43:20 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:43:20 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:43:25 [INFO ] manager.LoggerManager - CSS підключено до alert: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:43:25 [INFO ] manager.LoggerManager - Displayed error alert: Виберіть тип літака!
+2025-05-14 20:43:30 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 20:43:30 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:43:35 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:43:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:43:35 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:43:37 [INFO ] manager.LoggerManager - Літак з ID 99 видалений.
+2025-05-14 20:43:37 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:43:37 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:43:37 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:43:38 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 20:43:38 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:43:38 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:43:38 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:43:38 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 20:43:38 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:43:41 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:43:41 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:43:41 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:43:41 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-14 20:43:42 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 20:43:42 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:43:46 [INFO ] manager.LoggerManager - CSS підключено до alert: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:43:46 [INFO ] manager.LoggerManager - Displayed error alert: Введіть числове значення для максимальної витрати.
+2025-05-14 20:43:53 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 20:43:53 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:44:55 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:44:56 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:44:56 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:44:56 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:44:58 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:44:58 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:46:09 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:46:11 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:46:11 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:46:11 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:46:13 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:46:13 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:47:14 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:47:16 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:47:16 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:47:16 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:47:20 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:47:20 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:47:28 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 20:47:28 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:47:28 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:47:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:47:30 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 20:47:30 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:48:28 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:48:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:48:30 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:48:30 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:48:32 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:48:32 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:48:45 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-14 20:48:45 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:48:45 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:48:45 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:48:46 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 20:48:46 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:48:48 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 20:48:48 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:48:50 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:48:50 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:48:50 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:48:50 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:49:11 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:49:12 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:49:12 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:49:12 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:49:14 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:49:14 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:49:27 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 20:49:28 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:49:28 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:49:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:49:30 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 20:49:30 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:49:36 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 20:49:36 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:49:39 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 20:49:39 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 20:49:55 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 20:49:55 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 21:09:24 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 21:09:25 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 21:09:25 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 21:09:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 21:12:08 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 21:12:09 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 21:12:09 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 21:12:09 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 21:12:24 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 21:12:25 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 21:12:25 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 21:12:25 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 21:13:01 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 21:13:01 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 21:13:21 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 21:13:21 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 21:13:23 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 21:13:23 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 1914
+Загальна вантажна місткість: 175173,00 т
+
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 21:13:31 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 21:13:31 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 22:06:00 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 22:06:02 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:06:02 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:06:03 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Натиснута кнопка 'Зберегти у файл'
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: aircraft_data.csv
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: aircraft_data.csv
+2025-05-14 22:23:48 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:23:48 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:23:49 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:23:49 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:23:49 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:23:49 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:26:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:26:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:26:30 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:27:48 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:27:48 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:27:48 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:27:48 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:27:48 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:27:48 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:29:10 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:29:10 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:29:11 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:29:11 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:29:11 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:29:11 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:32:59 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:32:59 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:33:00 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:33:00 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:33:00 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:33:00 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:33:00 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:33:00 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:33:00 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:35:17 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:35:17 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:35:17 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:37:16 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:37:16 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:37:16 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:37:17 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:37:17 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:37:17 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:37:17 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:37:17 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:37:17 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:53:02 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 22:53:03 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:53:03 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:53:03 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:53:07 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 22:53:07 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 22:53:10 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 22:53:10 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 22:53:15 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:53:15 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:53:15 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:53:15 [INFO ] manager.LoggerManager - Пошук літаків за витратою пального виконано: 15 знайдено.
+2025-05-14 22:53:17 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 22:53:17 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 22:53:20 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 22:53:20 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 22:53:23 [INFO ] manager.LoggerManager - CSS підключено до alert: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 22:53:23 [INFO ] manager.LoggerManager - Displayed error alert: Введіть числове значення для мінімальної витрати.
+2025-05-14 22:53:26 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 22:53:26 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 22:53:37 [INFO ] manager.LoggerManager - CSS підключено до alert: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 22:53:37 [INFO ] manager.LoggerManager - Displayed error alert: Введіть числове значення для максимальної витрати.
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: aircrafts.txt
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: aircrafts.txt
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: aircrafts.txt
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: aircrafts.txt
+2025-05-14 23:14:35 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-14 23:14:35 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:14:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-14 23:47:59 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-14 23:48:00 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:00 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:00 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:00 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 19
+2025-05-14 23:48:01 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:01 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:01 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:04 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 23:48:04 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 23:48:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:29 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: test
+2025-05-14 23:48:29 [INFO ] manager.LoggerManager - Літак доданий: test
+2025-05-14 23:48:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:34 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-14 23:48:34 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 23:48:38 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:38 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:38 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:38 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 22
+2025-05-14 23:48:38 [INFO ] manager.LoggerManager - Літак з ID 22 видалений.
+2025-05-14 23:48:38 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:38 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:38 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:39 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 23:48:39 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 23:48:41 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:41 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:41 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:41 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-14 23:48:44 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-14 23:48:44 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 23:48:46 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:46 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:46 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:46 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-14 23:48:48 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-14 23:48:48 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 23:48:53 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:53 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:53 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:53 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 15
+2025-05-14 23:48:53 [INFO ] manager.LoggerManager - Пошук літаків за витратою пального виконано: 15 знайдено.
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 2299
+Загальна вантажна місткість: 175209,00 т
+
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 19
+Загальна пасажирська місткість: 2299
+Загальна вантажна місткість: 175209,00 т
+
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-14 23:49:08 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-14 23:49:08 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-14 23:49:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:49:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:49:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-14 23:49:26 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: sdf
+2025-05-14 23:49:26 [INFO ] manager.LoggerManager - Літак доданий: sdf
+2025-05-14 23:49:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-14 23:49:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-14 23:49:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.

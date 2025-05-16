@@ -1,0 +1,1207 @@
+2025-05-15 00:09:49 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-15 00:09:50 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:09:50 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:09:50 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:09:50 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 20
+2025-05-15 00:09:51 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:09:51 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:09:51 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:09:53 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-15 00:09:53 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 00:10:09 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:10:09 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:10:09 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:10:09 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: лдж
+2025-05-15 00:10:09 [INFO ] manager.LoggerManager - Літак доданий: лдж
+2025-05-15 00:10:09 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:10:09 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:10:09 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:10:13 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-15 00:10:13 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 00:10:18 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:10:18 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:10:18 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:10:18 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 8
+2025-05-15 00:10:18 [INFO ] manager.LoggerManager - Літак з ID 8 видалений.
+2025-05-15 00:10:18 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:10:18 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:10:18 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:10:21 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-15 00:10:21 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 00:10:25 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:10:25 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:10:25 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:10:25 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 16
+2025-05-15 00:10:25 [INFO ] manager.LoggerManager - Пошук літаків за витратою пального виконано: 16 знайдено.
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Start generating statistics for 20 aircrafts.
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 20
+Загальна пасажирська місткість: 2232
+Загальна вантажна місткість: 175215,00 т
+
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Start generating statistics for 20 aircrafts.
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 20
+Загальна пасажирська місткість: 2232
+Загальна вантажна місткість: 175215,00 т
+
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-15 00:10:34 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-15 00:10:34 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 00:10:37 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:10:37 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:10:37 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:10:37 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 00:19:03 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:03 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:03 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:03 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:19:03 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:19:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 2
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 00:40:19 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:40:21 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 00:40:23 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 00:40:23 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:40:23 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:23 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:23 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:40:23 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:40:23 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:40:23 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:41:10 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:41:10 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:41:10 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:41:11 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:41:11 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:41:11 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:41:11 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:41:11 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:41:40 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-15 00:41:40 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:41:40 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:41:41 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:41:41 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 23
+2025-05-15 00:41:41 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:41:41 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:41:41 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:41:47 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-15 00:41:47 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:41:47 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:41:47 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:04 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-15 00:42:04 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 00:42:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:42:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 5
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 00:42:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:42:28 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 00:42:30 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 00:42:30 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:42:30 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:30 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:30 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:42:30 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:42:30 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:42:30 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:44:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:44:51 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:55:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:55:26 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:55:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:55:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 6
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 00:55:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:55:29 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 00:55:30 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 00:55:30 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:55:30 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:55:30 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:55:30 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:55:30 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:55:30 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:55:30 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 6
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 00:57:55 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:57:57 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 00:57:58 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 00:57:58 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 00:57:58 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:57:58 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:57:59 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 00:57:59 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 00:57:59 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 00:57:59 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:02:22 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:02:24 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:02:26 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:02:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:04:12 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:04:12 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:04:12 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:04:12 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:04:12 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:04:13 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:04:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:04:13 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:04:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:04:13 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:04:13 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:04:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:04:13 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:04:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:04:15 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:04:16 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:04:16 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:06:05 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:07 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:06:09 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:06:09 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:06:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:06:33 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:06:35 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:06:35 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:13:07 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:13:09 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:13:10 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:13:10 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:15:36 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:17:04 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:18:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:18:46 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:18:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:18:58 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:19:00 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:19:00 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:20:39 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:23:49 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:23:50 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:24:15 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:24:17 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:24:19 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:24:19 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:32 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:26:51 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-15 01:26:51 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:26:51 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:26:51 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: test
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:54 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:26:56 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:26:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:26:57 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:26:57 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:26:57 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:26:57 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:26:57 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:26:57 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:26:57 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:26:57 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:27:37 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:27:38 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:27:38 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:27:38 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:27:38 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:27:38 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:27:38 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:27:38 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:28:44 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-15 01:28:44 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:28:44 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: test
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:28:48 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:28:49 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:28:49 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:28:50 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:28:50 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:28:50 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:28:50 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:28:50 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:28:50 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:28:50 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:28:50 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:33:10 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-15 01:33:10 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:33:10 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:33:10 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: test
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:33:13 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:33:14 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:33:14 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:33:14 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:33:14 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:33:15 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:33:15 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:33:15 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:33:15 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:33:15 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:33:15 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: test
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:34:30 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:34:30 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:34:30 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:34:30 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:34:30 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:34:30 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:34:31 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:34:32 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:34:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:34:33 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:34:33 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:34:33 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:34:33 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:34:33 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:34:33 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:34:33 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:34:33 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:36:06 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-15 01:36:22 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-15 01:36:22 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-15 01:36:22 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:36:22 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: test
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:36:24 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:36:24 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:36:24 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:36:25 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:36:27 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:36:27 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:36:28 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:36:28 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:36:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:36:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:36:28 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:36:28 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:36:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:36:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:46:10 [INFO ] manager.LoggerManager - Запуск програми...
+2025-05-15 01:46:10 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:10 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:11 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 25
+2025-05-15 01:46:11 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:11 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:11 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Start generating statistics for 25 aircrafts.
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 25
+Загальна пасажирська місткість: 3132
+Загальна вантажна місткість: 175315,00 т
+
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Start generating statistics for 25 aircrafts.
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 25
+Загальна пасажирська місткість: 3132
+Загальна вантажна місткість: 175315,00 т
+
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 01:46:15 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-15 01:46:19 [INFO ] manager.LoggerManager - Натиснута кнопка 'Додати літак'
+2025-05-15 01:46:19 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 01:46:21 [INFO ] manager.LoggerManager - Натиснута кнопка 'Видалити літак'
+2025-05-15 01:46:21 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 01:46:24 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:24 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:24 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:24 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 7
+2025-05-15 01:46:24 [INFO ] manager.LoggerManager - Літак з ID 7 видалений.
+2025-05-15 01:46:24 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:24 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:24 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:26 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати літаки'
+2025-05-15 01:46:26 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:26 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-15 01:46:26 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 01:46:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:28 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:46:29 [INFO ] manager.LoggerManager - Натиснута кнопка 'Сортувати літаки за дальністю'
+2025-05-15 01:46:29 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 01:46:31 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:31 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:31 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:31 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:46:33 [INFO ] manager.LoggerManager - Натиснута кнопка 'Пошук літаків по витраті пального'
+2025-05-15 01:46:33 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Натиснута кнопка 'Показати статистику'
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Start generating statistics for 24 aircrafts.
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 24
+Загальна пасажирська місткість: 3123
+Загальна вантажна місткість: 175306,00 т
+
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Start generating statistics for 24 aircrafts.
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Generated statistics: 
+Загальна кількість літаків: 24
+Загальна пасажирська місткість: 3123
+Загальна вантажна місткість: 175306,00 т
+
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - CSS підключено до діалогу: file:/D:/2%20%d0%ba%d1%83%d1%80%d1%81/3%20%d1%81%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d1%80/%d0%9b%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%bd%d1%96%20%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b8%20%d0%9f%d0%9f/7LR2/target/classes/style.css
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Displayed statistics in UI.
+2025-05-15 01:50:27 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-15 01:50:27 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-15 01:50:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:50:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: test
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:50:30 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:50:31 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:50:31 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:50:32 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:50:32 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:50:32 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:50:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 24
+2025-05-15 01:50:32 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:50:32 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:50:32 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:50:32 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 24
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: test
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:51:27 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:51:28 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:51:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:51:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:51:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:51:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:51:29 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 24
+2025-05-15 01:51:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:51:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:51:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:51:29 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 24
+2025-05-15 01:53:39 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-15 01:53:39 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-15 01:53:39 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:53:39 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:53:39 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: test
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:53:42 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:53:44 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:53:44 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:53:45 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:53:45 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:53:45 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:53:45 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 24
+2025-05-15 01:53:45 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:53:45 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:53:45 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:53:45 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 24
+2025-05-15 01:55:12 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-15 01:55:12 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-15 01:55:12 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:55:12 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: test
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 01:55:14 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:55:14 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 01:55:14 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:55:15 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:55:17 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 01:55:17 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 01:55:17 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:55:17 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:55:17 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:55:17 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 24
+2025-05-15 01:55:17 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 01:55:17 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 01:55:17 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 01:55:17 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 24
+2025-05-15 02:04:50 [INFO ] manager.LoggerManager - Statistics retrieved for display.
+2025-05-15 02:04:50 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
+2025-05-15 02:04:50 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 02:04:50 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 02:04:50 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: фів
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: сап
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: о
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: апр
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: test
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Знайдено літаків за витратою пального: 1
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: ASC
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Літак успішно видалено з бази даних: ID 1
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Літаки відсортовано за дальністю: DESC
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 02:04:53 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 02:04:55 [INFO ] manager.LoggerManager - Повідомлення про критичну помилку надіслано на email: kvzolota159789@gmail.com
+2025-05-15 02:04:55 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
+2025-05-15 02:04:56 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 02:04:56 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 02:04:56 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 02:04:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 24
+2025-05-15 02:04:56 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
+2025-05-15 02:04:56 [INFO ] manager.LoggerManager - Підключення до бази даних...
+2025-05-15 02:04:56 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
+2025-05-15 02:04:56 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 24
