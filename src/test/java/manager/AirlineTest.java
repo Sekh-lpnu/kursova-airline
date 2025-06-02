@@ -1,15 +1,12 @@
 package manager;
 
-import aircraft.Aircraft;
-import aircraft.CargoAircraft;
-import aircraft.PassengerAircraft;
-import aircraft.PrivateJet;
+import models.Aircraft;
+import models.PassengerAircraft;
 import database.DatabaseManager;
 import database.TestDatabaseUtils;
 import gui.AircraftListUpdater;
 import javafx.collections.ObservableList;
 import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
@@ -63,17 +60,15 @@ public class AirlineTest {
         try (MockedStatic<DatabaseManager> mockedDatabase = mockStatic(DatabaseManager.class)) {
             mockedDatabase.when(DatabaseManager::getConnection).thenReturn(connection);
 
-            // Налаштування для INSERT
             when(connection.prepareStatement(anyString(), eq(Statement.RETURN_GENERATED_KEYS))).thenReturn(preparedStatement);
-            when(preparedStatement.executeUpdate()).thenReturn(1); // Успішний INSERT
+            when(preparedStatement.executeUpdate()).thenReturn(1);
             when(preparedStatement.getGeneratedKeys()).thenReturn(resultSet);
-            when(resultSet.next()).thenReturn(true); // Є згенерований ключ
-            when(resultSet.getInt(1)).thenReturn(1); // ID = 1
+            when(resultSet.next()).thenReturn(true);
+            when(resultSet.getInt(1)).thenReturn(1);
 
-            // Налаштування для SELECT у getAircraftList
             ResultSet emptyResultSet = mock(ResultSet.class);
             when(emptyResultSet.next()).thenReturn(false);
-            when(statement.executeQuery("SELECT * FROM aircrafts")).thenReturn(emptyResultSet); // для load
+            when(statement.executeQuery("SELECT * FROM aircrafts")).thenReturn(emptyResultSet);
 
             ResultSet filledResultSet = mock(ResultSet.class);
             when(filledResultSet.next()).thenReturn(true, false);
@@ -84,7 +79,7 @@ public class AirlineTest {
             when(filledResultSet.getString("type")).thenReturn("passenger");
             when(filledResultSet.getInt("passengerCapacity")).thenReturn(180);
             when(filledResultSet.getDouble("cargoCapacity")).thenReturn(20.0);
-            when(statement.executeQuery("SELECT * FROM aircrafts")).thenReturn(filledResultSet); // для getAircraftList
+            when(statement.executeQuery("SELECT * FROM aircrafts")).thenReturn(filledResultSet);
 
             airline.addAircraft("Boeing 737", 5000, 2.5, 180, 20, 1);
 
@@ -94,7 +89,7 @@ public class AirlineTest {
             assertTrue(aircraft instanceof PassengerAircraft);
             assertEquals("Boeing 737", aircraft.getModel());
             assertEquals(1, aircraft.getId());
-            verify(updater, times(2)).updateAircraftListInGUI(any()); // Ініціалізація + додавання
+            verify(updater, times(2)).updateAircraftListInGUI(any());
         }
     }
 
@@ -104,7 +99,6 @@ public class AirlineTest {
         try (MockedStatic<DatabaseManager> mockedDatabase = mockStatic(DatabaseManager.class)) {
             mockedDatabase.when(DatabaseManager::getConnection).thenReturn(connection);
 
-            // Налаштування порожньої бази
             when(connection.createStatement()).thenReturn(statement);
             when(statement.executeQuery("SELECT * FROM aircrafts")).thenReturn(resultSet);
             when(resultSet.next()).thenReturn(false);
@@ -115,7 +109,7 @@ public class AirlineTest {
 
             List<Aircraft> aircraftList = airline.getAircraftList();
             assertTrue(aircraftList.isEmpty());
-            verify(updater, times(1)).updateAircraftListInGUI(any()); // Лише ініціалізація
+            verify(updater, times(1)).updateAircraftListInGUI(any());
             verify(preparedStatement, never()).executeUpdate();
         }
     }
@@ -125,14 +119,12 @@ public class AirlineTest {
         try (MockedStatic<DatabaseManager> mockedDatabase = mockStatic(DatabaseManager.class)) {
             mockedDatabase.when(DatabaseManager::getConnection).thenReturn(connection);
 
-            // Налаштування для INSERT
             when(connection.prepareStatement(anyString(), eq(Statement.RETURN_GENERATED_KEYS))).thenReturn(preparedStatement);
             when(preparedStatement.executeUpdate()).thenReturn(1);
             when(preparedStatement.getGeneratedKeys()).thenReturn(resultSet);
             when(resultSet.next()).thenReturn(true);
             when(resultSet.getInt(1)).thenReturn(1);
 
-            // Налаштування для SELECT після додавання
             when(connection.createStatement()).thenReturn(statement);
             when(statement.executeQuery("SELECT * FROM aircrafts")).thenReturn(resultSet);
             when(resultSet.next()).thenReturn(true, false); // Один запис
@@ -146,19 +138,17 @@ public class AirlineTest {
 
             airline.addAircraft("Boeing 737", 5000, 2.5, 180, 20, 1);
 
-            // Налаштування для DELETE
             when(connection.prepareStatement(anyString())).thenReturn(preparedStatement);
             when(preparedStatement.executeUpdate()).thenReturn(1);
 
-            // Налаштування для SELECT після видалення
             when(statement.executeQuery("SELECT * FROM aircrafts")).thenReturn(resultSet);
-            when(resultSet.next()).thenReturn(false); // База порожня
+            when(resultSet.next()).thenReturn(false);
 
             boolean result = airline.removeAircraft(1);
 
             assertTrue(result);
             assertTrue(airline.getAircraftList().isEmpty());
-            verify(updater, times(3)).updateAircraftListInGUI(any()); // Ініціалізація, додавання, видалення
+            verify(updater, times(3)).updateAircraftListInGUI(any());
         }
     }
 
@@ -178,7 +168,7 @@ public class AirlineTest {
 
             assertFalse(result);
             assertTrue(airline.getAircraftList().isEmpty());
-            verify(updater, times(1)).updateAircraftListInGUI(any()); // Лише ініціалізація
+            verify(updater, times(1)).updateAircraftListInGUI(any());
         }
     }
 
@@ -189,7 +179,7 @@ public class AirlineTest {
 
             when(connection.createStatement()).thenReturn(statement);
             when(statement.executeQuery("SELECT * FROM aircrafts")).thenReturn(resultSet);
-            when(resultSet.next()).thenReturn(true, true, false); // Два записи
+            when(resultSet.next()).thenReturn(true, true, false);
             when(resultSet.getInt("id")).thenReturn(1, 2);
             when(resultSet.getString("model")).thenReturn("Boeing 737", "Airbus A320");
             when(resultSet.getDouble("range")).thenReturn(5000.0, 6000.0);
@@ -203,7 +193,7 @@ public class AirlineTest {
             assertEquals(2, sortedList.size());
             assertEquals("Boeing 737", sortedList.get(0).getModel());
             assertEquals("Airbus A320", sortedList.get(1).getModel());
-            verify(updater, times(2)).updateAircraftListInGUI(any()); // Ініціалізація та сортування
+            verify(updater, times(2)).updateAircraftListInGUI(any());
         }
     }
 
@@ -214,7 +204,7 @@ public class AirlineTest {
 
             when(connection.createStatement()).thenReturn(statement);
             when(statement.executeQuery("SELECT * FROM aircrafts")).thenReturn(resultSet);
-            when(resultSet.next()).thenReturn(true, true, false); // Два записи
+            when(resultSet.next()).thenReturn(true, true, false);
             when(resultSet.getInt("id")).thenReturn(1, 2);
             when(resultSet.getString("model")).thenReturn("Boeing 737", "Airbus A320");
             when(resultSet.getDouble("range")).thenReturn(5000.0, 6000.0);
@@ -228,7 +218,7 @@ public class AirlineTest {
             assertEquals(2, sortedList.size());
             assertEquals("Airbus A320", sortedList.get(0).getModel());
             assertEquals("Boeing 737", sortedList.get(1).getModel());
-            verify(updater, times(2)).updateAircraftListInGUI(any()); // Ініціалізація та сортування
+            verify(updater, times(2)).updateAircraftListInGUI(any());
         }
     }
 
@@ -239,7 +229,7 @@ public class AirlineTest {
 
             when(connection.prepareStatement(anyString())).thenReturn(preparedStatement);
             when(preparedStatement.executeQuery()).thenReturn(resultSet);
-            when(resultSet.next()).thenReturn(true, false); // Один запис
+            when(resultSet.next()).thenReturn(true, false);
             when(resultSet.getInt("id")).thenReturn(1);
             when(resultSet.getString("model")).thenReturn("Boeing 737");
             when(resultSet.getDouble("range")).thenReturn(5000.0);
@@ -252,7 +242,7 @@ public class AirlineTest {
 
             assertEquals(1, foundAircraft.size());
             assertEquals("Boeing 737", foundAircraft.get(0).getModel());
-            verify(updater, times(2)).updateAircraftListInGUI(any()); // Лише виклик у findAircraftByFuel
+            verify(updater, times(2)).updateAircraftListInGUI(any());
         }
     }
 
@@ -263,7 +253,7 @@ public class AirlineTest {
 
             when(connection.createStatement()).thenReturn(statement);
             when(statement.executeQuery("SELECT * FROM aircrafts")).thenReturn(resultSet);
-            when(resultSet.next()).thenReturn(true, false); // Один запис
+            when(resultSet.next()).thenReturn(true, false);
             when(resultSet.getInt("id")).thenReturn(1);
             when(resultSet.getString("model")).thenReturn("Boeing 737");
             when(resultSet.getDouble("range")).thenReturn(5000.0);
@@ -276,7 +266,7 @@ public class AirlineTest {
 
             assertEquals(1, observableList.size());
             assertEquals("Boeing 737", observableList.get(0).getModel());
-            verify(updater, times(1)).updateAircraftListInGUI(any()); // Лише ініціалізація
+            verify(updater, times(1)).updateAircraftListInGUI(any());
         }
     }
 
@@ -287,7 +277,7 @@ public class AirlineTest {
 
             Airline airlineWithError = new Airline(updater);
             assertTrue(airlineWithError.getAircraftList().isEmpty());
-            verify(updater, times(1)).updateAircraftListInGUI(any()); // Виклик при ініціалізації
+            verify(updater, times(1)).updateAircraftListInGUI(any());
         }
     }
     @AfterAll

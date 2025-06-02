@@ -1,9 +1,9 @@
 package gui;
 
-import aircraft.Aircraft;
-import aircraft.CargoAircraft;
-import aircraft.PassengerAircraft;
-import aircraft.PrivateJet;
+import models.Aircraft;
+import models.CargoAircraft;
+import models.PassengerAircraft;
+import models.PrivateJet;
 import commands.DisplayStatisticsCommand;
 import commands.SaveToFileCommand;
 import commands.SortAircraftsCommand;
@@ -11,13 +11,11 @@ import javafx.animation.FadeTransition;
 import javafx.animation.ParallelTransition;
 import javafx.animation.ScaleTransition;
 import javafx.application.Application;
-import javafx.beans.value.ChangeListener;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.geometry.Rectangle2D;
-import javafx.scene.Node;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
@@ -227,7 +225,7 @@ public class MainApp extends Application implements AircraftListUpdater { // Д�
         cargoCapacityField.setPromptText("Вантажопідйомність");
         cargoCapacityField.setId("cargoCapacityField");
 
-        // Set default values and disable fields based on aircraft type
+
         aircraftTypeComboBox.valueProperty().addListener((obs, oldValue, newValue) -> {
             passengerCapacityField.setText("");
             cargoCapacityField.setText("");
@@ -269,7 +267,7 @@ public class MainApp extends Application implements AircraftListUpdater { // Д�
                 ButtonType.CANCEL
         );
 
-        // Add logging to debug dialog behavior
+
         aircraftTypeComboBox.setOnAction(event -> {
             LoggerManager.logInfo("Selected aircraft type: " + aircraftTypeComboBox.getValue());
         });
@@ -315,7 +313,6 @@ public class MainApp extends Application implements AircraftListUpdater { // Д�
                     }
                     double fuel = Double.parseDouble(fuelConsumptionField.getText());
 
-                    // Ensure passenger capacity is 0 for cargo aircraft
                     int passengers = 0;
                     if (!passengerCapacityField.isDisable()) {
                         if (!passengerCapacityField.getText().matches("\\d+")) {
@@ -327,7 +324,6 @@ public class MainApp extends Application implements AircraftListUpdater { // Д�
                         passengers = Integer.parseInt(passengerCapacityField.getText());
                     }
 
-                    // Ensure cargo capacity is 0 for passenger aircraft
                     double cargo = 0;
                     if (!cargoCapacityField.isDisable()) {
                         if (!cargoCapacityField.getText().matches("\\d*\\.?\\d+")) {

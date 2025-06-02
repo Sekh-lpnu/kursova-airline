@@ -38,26 +38,26 @@
 2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Start generating statistics for 20 aircrafts.
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: апр
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: test
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo models: sdf
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo models: лдж
 2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 20
 Загальна пасажирська місткість: 2232
@@ -68,26 +68,26 @@
 2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Start generating statistics for 20 aircrafts.
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
-2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: апр
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing passenger models: test
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo models: sdf
+2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Processing cargo models: лдж
 2025-05-15 00:10:28 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 20
 Загальна пасажирська місткість: 2232
@@ -459,33 +459,33 @@
 2025-05-15 01:26:51 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-15 01:26:51 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:26:51 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: test
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: test
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: sdf
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: лдж
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
 2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
 2025-05-15 01:26:52 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
@@ -523,33 +523,33 @@
 2025-05-15 01:28:44 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-15 01:28:44 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: test
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: test
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: sdf
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: лдж
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:28:45 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
 2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
 2025-05-15 01:28:46 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
@@ -579,33 +579,33 @@
 2025-05-15 01:33:10 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-15 01:33:10 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:33:10 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: test
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: test
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: sdf
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: лдж
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
 2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
 2025-05-15 01:33:11 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
@@ -635,33 +635,33 @@
 2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: test
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: test
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: sdf
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: лдж
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
 2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
 2025-05-15 01:34:29 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
@@ -693,33 +693,33 @@
 2025-05-15 01:36:22 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-15 01:36:22 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: test
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: test
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: sdf
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: лдж
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
 2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
 2025-05-15 01:36:23 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
@@ -758,31 +758,31 @@
 2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Start generating statistics for 25 aircrafts.
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: апр
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: test
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo models: sdf
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo models: лдж
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
 2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 25
 Загальна пасажирська місткість: 3132
@@ -793,31 +793,31 @@
 2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Start generating statistics for 25 aircrafts.
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: апр
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: test
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo models: sdf
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing cargo models: лдж
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
 2025-05-15 01:46:14 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 25
 Загальна пасажирська місткість: 3132
@@ -860,30 +860,30 @@
 2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Start generating statistics for 24 aircrafts.
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: апр
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: test
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo models: sdf
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo models: лдж
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
 2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 24
 Загальна пасажирська місткість: 3123
@@ -894,30 +894,30 @@
 2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Start generating statistics for 24 aircrafts.
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: sdf
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: лдж
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: апр
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: test
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo models: sdf
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing cargo models: лдж
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
 2025-05-15 01:46:35 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 24
 Загальна пасажирська місткість: 3123
@@ -930,32 +930,32 @@
 2025-05-15 01:50:27 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-15 01:50:27 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: test
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: test
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: sdf
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: лдж
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
 2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
 2025-05-15 01:50:28 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
@@ -986,32 +986,32 @@
 2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: test
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: test
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: sdf
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: лдж
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:51:25 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
 2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
 2025-05-15 01:51:26 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
@@ -1042,32 +1042,32 @@
 2025-05-15 01:53:39 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-15 01:53:39 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:53:39 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: test
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: test
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: sdf
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: лдж
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
 2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
 2025-05-15 01:53:40 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
@@ -1098,32 +1098,32 @@
 2025-05-15 01:55:12 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-15 01:55:12 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: test
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: test
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: sdf
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: лдж
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
 2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
 2025-05-15 01:55:13 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
@@ -1154,32 +1154,32 @@
 2025-05-15 02:04:50 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-15 02:04:50 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-15 02:04:50 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: test
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: sdf
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: лдж
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: test
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: sdf
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: лдж
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0
 2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Літак успішно додано до бази даних: Boeing 737
 2025-05-15 02:04:51 [INFO ] manager.LoggerManager - Завантажено літаків з бази даних: 0

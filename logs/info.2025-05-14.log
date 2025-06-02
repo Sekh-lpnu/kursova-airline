@@ -76,25 +76,25 @@
 2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Processing passenger models: о
 2025-05-14 00:15:49 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 2248
@@ -138,25 +138,25 @@
 2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Processing passenger models: о
 2025-05-14 00:26:13 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 2248
@@ -199,25 +199,25 @@
 2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Processing passenger models: о
 2025-05-14 00:29:53 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 2248
@@ -250,25 +250,25 @@
 2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Processing passenger models: о
 2025-05-14 00:36:58 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 2248
@@ -352,25 +352,25 @@
 2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 00:52:38 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -381,27 +381,27 @@
 2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: aircraft_data.csv
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: wtyuie
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-14 00:52:42 [INFO ] manager.LoggerManager - Successfully saved all models data to file: aircraft_data.csv
 2025-05-14 19:55:13 [INFO ] manager.LoggerManager - Запуск програми...
 2025-05-14 19:55:15 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-14 19:55:15 [INFO ] manager.LoggerManager - Підключення до бази даних...
@@ -428,25 +428,25 @@
 2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 19:56:22 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -461,25 +461,25 @@
 2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -490,25 +490,25 @@
 2025-05-14 20:06:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:06:36 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -524,25 +524,25 @@
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -553,25 +553,25 @@
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:11:54 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -587,25 +587,25 @@
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -616,25 +616,25 @@
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:13:13 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -646,25 +646,25 @@
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -675,25 +675,25 @@
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:13:20 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -710,25 +710,25 @@
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -739,25 +739,25 @@
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:18:51 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -783,25 +783,25 @@
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -812,25 +812,25 @@
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:27:33 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -868,25 +868,25 @@
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -897,25 +897,25 @@
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:35:19 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -958,25 +958,25 @@
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -987,25 +987,25 @@
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:38:54 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1018,27 +1018,27 @@
 2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: aircraft_data.csv
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: wtyuie
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-14 20:38:57 [INFO ] manager.LoggerManager - Successfully saved all models data to file: aircraft_data.csv
 2025-05-14 20:39:48 [INFO ] manager.LoggerManager - Запуск програми...
 2025-05-14 20:39:50 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-14 20:39:50 [INFO ] manager.LoggerManager - Підключення до бази даних...
@@ -1062,25 +1062,25 @@
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1091,25 +1091,25 @@
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:41:48 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1165,25 +1165,25 @@
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1194,25 +1194,25 @@
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:43:57 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1263,25 +1263,25 @@
 2025-05-14 20:48:50 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:48:50 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1292,25 +1292,25 @@
 2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:48:51 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1339,25 +1339,25 @@
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1368,25 +1368,25 @@
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 20:49:43 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1405,25 +1405,25 @@
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1434,25 +1434,25 @@
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 21:09:29 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1469,25 +1469,25 @@
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1498,25 +1498,25 @@
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 21:12:12 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1539,25 +1539,25 @@
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1568,25 +1568,25 @@
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Processing passenger models: апр
 2025-05-14 21:13:26 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 1914
@@ -1605,27 +1605,27 @@
 2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: aircraft_data.csv
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: wtyuie
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-14 22:06:13 [INFO ] manager.LoggerManager - Successfully saved all models data to file: aircraft_data.csv
 2025-05-14 22:23:48 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-14 22:23:48 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 22:23:49 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
@@ -1694,77 +1694,77 @@
 2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: aircrafts.txt
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: wtyuie
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-14 22:56:58 [INFO ] manager.LoggerManager - Successfully saved all models data to file: aircrafts.txt
 2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: aircrafts.txt
 2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: aircrafts.txt
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: wtyuie
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-14 22:57:01 [INFO ] manager.LoggerManager - Successfully saved all models data to file: aircrafts.txt
 2025-05-14 23:14:35 [INFO ] manager.LoggerManager - Starting to save all aircrafts to file: test_aircrafts_output.csv
 2025-05-14 23:14:35 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-14 23:14:35 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Retrieved aircraft data from database.
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: фіаа
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: wtyuie
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: C-130 Hercules
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 747
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Gulfstream G650
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: Boeing 737
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: фів
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: вапр
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: івапро
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: сап
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: о
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved aircraft data: апр
-2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Successfully saved all aircraft data to file: test_aircrafts_output.csv
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Retrieved models data from database.
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: фіаа
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: wtyuie
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: C-130 Hercules
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: Boeing 747
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: Gulfstream G650
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: Boeing 737
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: фів
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: вапр
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: івапро
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: сап
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: о
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Saved models data: апр
+2025-05-14 23:14:36 [INFO ] manager.LoggerManager - Successfully saved all models data to file: test_aircrafts_output.csv
 2025-05-14 23:47:59 [INFO ] manager.LoggerManager - Запуск програми...
 2025-05-14 23:48:00 [INFO ] manager.LoggerManager - Завантаження драйвера SQL Server...
 2025-05-14 23:48:00 [INFO ] manager.LoggerManager - Підключення до бази даних...
@@ -1817,25 +1817,25 @@
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: апр
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: test
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 2299
@@ -1846,25 +1846,25 @@
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Підключення до бази даних...
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Успішне підключення до бази даних.
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Start generating statistics for 19 aircrafts.
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: фіаа
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: фіаа
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing private jet: wtyuie
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo aircraft: C-130 Hercules
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 747
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo models: C-130 Hercules
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 747
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing private jet: Gulfstream G650
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: Boeing 737
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: фів
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: вапр
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo aircraft: івапро
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: сап
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: о
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: апр
-2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger aircraft: test
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: Boeing 737
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: фів
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: вапр
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing cargo models: івапро
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: сап
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: о
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: апр
+2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Processing passenger models: test
 2025-05-14 23:48:55 [INFO ] manager.LoggerManager - Generated statistics: 
 Загальна кількість літаків: 19
 Загальна пасажирська місткість: 2299

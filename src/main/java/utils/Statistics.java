@@ -1,14 +1,13 @@
 package utils;
 
-import aircraft.Aircraft;
-import aircraft.CargoAircraft;
-import aircraft.PassengerAircraft;
-import aircraft.PrivateJet;
+import models.Aircraft;
+import models.CargoAircraft;
+import models.PassengerAircraft;
+import models.PrivateJet;
 import manager.Airline;
 import manager.LoggerManager;
 
 import java.util.List;
-import java.util.logging.Logger;
 
 public class Statistics {
 

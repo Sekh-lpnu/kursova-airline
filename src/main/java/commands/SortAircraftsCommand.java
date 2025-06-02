@@ -2,7 +2,7 @@ package commands;
 
 import gui.AircraftListUpdater;
 import manager.Airline;
-import aircraft.Aircraft;
+import models.Aircraft;
 import java.util.List;
 
 public class SortAircraftsCommand implements Command {

@@ -1,16 +1,13 @@
 package gui;
-import aircraft.Aircraft;
-import aircraft.PassengerAircraft;
+import models.Aircraft;
 import database.DatabaseManager;
 import database.TestDatabaseUtils;
-import javafx.scene.Node;
 import javafx.scene.control.*;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import manager.Airline;
 import manager.LoggerManager;
 import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.testfx.api.FxRobot;
@@ -22,7 +19,6 @@ import java.io.File;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.sql.Statement;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
@@ -189,15 +185,11 @@ public class MainAppTest extends ApplicationTest {
     @Test
     public void testRemoveAircraft() {
         Airline airline = lookupAirline();
-
-        // Очищаємо базу даних перед тестом
         clearDatabase();
 
         // Додаємо літак
         airline.addAircraft("Boeing 737", 5500, 15.5, 180, 20, 1);
         mainApp.updateAircraftListInGUI(airline.getAircraftList());
-
-        // Отримуємо ID доданого літака (припускаємо, що це останній доданий літак)
         Aircraft addedAircraft = airline.getAircraftList().get(0);
         int aircraftId = addedAircraft.getId();
 
@@ -206,7 +198,6 @@ public class MainAppTest extends ApplicationTest {
         robot.clickOn("OK");
 
         TableView<Aircraft> table = lookup(".table-view").query();
-        // Перевіряємо, що літак більше не відображається
         verifyThat(table, TableViewMatchers.hasNumRows(0));
     }
 
@@ -244,12 +235,10 @@ public class MainAppTest extends ApplicationTest {
 
         TableView<Aircraft> table = lookup(".table-view").query();
 
-        // Друк для діагностики
         table.getItems().forEach(item ->
                 System.out.println("ID: " + item.getId() + ", Range: " + item.getRange())
         );
 
-        // Перевірка сортування за дальністю
         verifyThat(table, tableView -> {
             List<Aircraft> items = tableView.getItems();
             return items.size() == 2 &&
@@ -318,14 +307,9 @@ public class MainAppTest extends ApplicationTest {
         if (file.exists()) {
             file.delete();
         }
-
-        // Натискаємо кнопку, яка викликає Alert
         robot.clickOn("Зберегти у файл");
+        sleep(1000);
 
-        // Чекаємо, поки Alert з'явиться
-        sleep(1000); // або waitForFxEvents();
-
-        // Пробуємо натиснути кнопку "ОК" у вікні повідомлення
         robot.lookup(".button").queryAll().stream()
                 .filter(node -> node instanceof javafx.scene.control.Button)
                 .map(node -> (javafx.scene.control.Button) node)
@@ -333,7 +317,6 @@ public class MainAppTest extends ApplicationTest {
                 .findFirst()
                 .ifPresent(robot::clickOn);
 
-        // Тепер перевіряємо, чи файл збережено
         assertTrue(file.exists(), "Файл має бути створений після збереження");
     }
 
@@ -342,9 +325,8 @@ public class MainAppTest extends ApplicationTest {
     @Test
     public void testErrorDialogAnimation() throws TimeoutException {
         robot.clickOn("Додати літак");
-        robot.clickOn("Додати"); // Викликаємо помилку
+        robot.clickOn("Додати");
 
-        // Чекаємо, поки opacity діалогу буде не менше 0.99
         WaitForAsyncUtils.waitFor(5, TimeUnit.SECONDS, () -> {
             DialogPane pane = lookup(".alert").queryAs(DialogPane.class);
             return pane != null && pane.getOpacity() >= 1;
@@ -365,7 +347,6 @@ public class MainAppTest extends ApplicationTest {
 
         robot.clickOn("Додати літак");
 
-        // Очікування на завершення застосування CSS
         WaitForAsyncUtils.waitForFxEvents();
 
         DialogPane dialogPane = lookup(".dialog-pane").query();
@@ -376,7 +357,6 @@ public class MainAppTest extends ApplicationTest {
     @Test
     public void testUpdateAircraftListInGUI() {
         Airline airline = lookupAirline();
-        // Додаємо літак через метод addAircraft із відповідними параметрами
         airline.addAircraft("Boeing 737", 5500.0, 15.5, 180, 20, 1); // aircraftType = 1 для пасажирського
         mainApp.updateAircraftListInGUI(airline.getAircraftList());
 

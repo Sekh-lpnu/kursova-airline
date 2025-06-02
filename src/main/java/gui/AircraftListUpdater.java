@@ -1,6 +1,6 @@
 package gui;
 
-import aircraft.Aircraft;
+import models.Aircraft;
 import java.util.List;
 
 public interface AircraftListUpdater {

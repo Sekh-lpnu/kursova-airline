@@ -10,10 +10,10 @@ import java.util.Properties;
 
 public class LoggerManager {
 
-    // Створюємо логер
+
     private static final Logger logger = LoggerFactory.getLogger(LoggerManager.class);
 
-    // Конфігурація для SMTP
+
     private static final String SENDER_EMAIL = "kvzolota159789@gmail.com";
     private static final String RECIPIENT_EMAIL = "kvzolota159789@gmail.com";
 
@@ -36,7 +36,7 @@ public class LoggerManager {
     public static void logCritical(String message, Throwable exception) {
         logger.error("CRITICAL: " + message, exception);
 
-        // Додаткові дії: надсилання email
+        //  надсилання email
         sendCriticalErrorEmail(message, exception);
     }
 

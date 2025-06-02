@@ -1,4 +1,4 @@
-package aircraft;
+package models;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -9,10 +9,8 @@ class PrivateJetTest {
 
     @Test
     void testConstructorAndGetters() {
-        // Створення об'єкта PrivateJet
         PrivateJet privateJet = new PrivateJet("Gulfstream G650", 12000, 2.5, 18, 2.0);
 
-        // Перевірка значень, переданих у конструктор
         Assertions.assertEquals("Gulfstream G650", privateJet.getModel(), "Модель має бути Gulfstream G650");
         Assertions.assertEquals(12000, privateJet.getRange(), 0.001, "Дальність має бути 12000 км");
         Assertions.assertEquals(2.5, privateJet.getFuelConsumptionPerUnit(), 0.001, "Споживання пального має бути 2.5 л/км");
@@ -38,22 +36,15 @@ class PrivateJetTest {
 
     @Test
     void testCalculateFuelConsumption() {
-        // Створення об'єкта PrivateJet
         PrivateJet privateJet = new PrivateJet("Learjet 75", 5000, 2.0, 9, 1.0);
-
-        // Очікуваний результат для calculateFuelConsumption
         double expectedFuelConsumption = 5000 * 2.0;
 
-        // Перевірка calculateFuelConsumption
         Assertions.assertEquals(expectedFuelConsumption, privateJet.calculateFuelConsumption(), 0.001, "Розрахунок загального споживання пального має бути коректним");
     }
 
     @Test
     void testInheritance() {
-        // Створення об'єкта PrivateJet
         PrivateJet privateJet = new PrivateJet("HondaJet Elite", 3000, 1.8, 6, 0.8);
-
-        // Перевірка, чи PrivateJet є підкласом Aircraft
         assertTrue(privateJet instanceof Aircraft, "PrivateJet має бути підкласом Aircraft");
     }
 }

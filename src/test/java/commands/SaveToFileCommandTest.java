@@ -29,39 +29,27 @@ public class SaveToFileCommandTest {
 
     @Test
     void testExecuteShouldShowSuccessMessageWhenFileIsSaved() {
-        // Arrange
         when(fileManagerMock.saveAllAircraftsToFile(filename)).thenReturn(true);
-
-        // Act
         saveToFileCommand.execute();
 
-        // Assert
         verify(messageDisplayMock, times(1)).showMessage("Файл успішно збережено: " + filename);
         verify(fileManagerMock, times(1)).saveAllAircraftsToFile(filename);
     }
 
     @Test
     void testExecuteShouldShowErrorMessageWhenFileSaveFails() {
-        // Arrange
         when(fileManagerMock.saveAllAircraftsToFile(filename)).thenReturn(false);
-
-        // Act
         saveToFileCommand.execute();
 
-        // Assert
         verify(messageDisplayMock, times(1)).showMessage("Помилка під час збереження файлу: " + filename);
         verify(fileManagerMock, times(1)).saveAllAircraftsToFile(filename);
     }
 
     @Test
     void testExecuteShouldCallSaveAllAircraftsToFileMethod() {
-        // Arrange
         when(fileManagerMock.saveAllAircraftsToFile(filename)).thenReturn(true);
-
-        // Act
         saveToFileCommand.execute();
 
-        // Assert
         verify(fileManagerMock, times(1)).saveAllAircraftsToFile(filename);
     }
     @AfterAll

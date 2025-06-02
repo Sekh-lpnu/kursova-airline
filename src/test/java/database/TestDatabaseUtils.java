@@ -15,7 +15,7 @@ public class TestDatabaseUtils {
             // Видалити всі дані
             stmt.execute("DELETE FROM aircrafts");
 
-            // Скинути автоінкремент ID до 1 (тобто наступне буде 1)
+            // Скинути автоінкремент ID до 1
             stmt.execute("DBCC CHECKIDENT ('aircrafts', RESEED, 0)");
 
         } catch (SQLException e) {

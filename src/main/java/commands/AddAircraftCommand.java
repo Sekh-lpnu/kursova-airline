@@ -11,7 +11,7 @@ public class AddAircraftCommand implements Command {
     private final double cargoCapacity;
     private final int aircraftType;
 
-    // Конструктор для передавання параметрів
+
     public AddAircraftCommand(Airline airline, String model, double range, double fuelConsumptionPerUnit,
                               int passengerCapacity, double cargoCapacity, int aircraftType) {
         this.airline = airline;
@@ -25,7 +25,6 @@ public class AddAircraftCommand implements Command {
 
     @Override
     public void execute() {
-        // Викликає метод addAircraft з параметрами, які передаються з графічного інтерфейсу
         airline.addAircraft(model, range, fuelConsumptionPerUnit, passengerCapacity, cargoCapacity, aircraftType);
     }
 }

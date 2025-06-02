@@ -1,10 +1,7 @@
 package utils;
 
-import aircraft.Aircraft;
-import aircraft.CargoAircraft;
-import aircraft.PassengerAircraft;
-import aircraft.PrivateJet;
-import database.TestDatabaseUtils;
+import models.CargoAircraft;
+import models.PassengerAircraft;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -30,7 +27,6 @@ class FileManagerTest {
         Files.deleteIfExists(Path.of(testFileName));
     }
 
-    // Тестуємо форматування пасажирського літака
     @Test
     void testFormatPassengerAircraftData() {
         PassengerAircraft aircraft = new PassengerAircraft("Boeing 737", 5000, 2.5, 180, 3000);
@@ -41,18 +37,16 @@ class FileManagerTest {
         assertTrue(result.contains("3000"));
     }
 
-    // Тестуємо форматування вантажного літака
     @Test
     void testFormatCargoAircraftData() {
         CargoAircraft aircraft = new CargoAircraft("Antonov An-124", 4000, 4.0, 10000);
         String result = fileManager.formatAircraftData(aircraft, "cargo");
         assertTrue(result.contains("Antonov An-124"));
         assertTrue(result.contains("cargo"));
-        assertTrue(result.contains("Н/Д")); // Пасажири відсутні
+        assertTrue(result.contains("Н/Д"));
         assertTrue(result.contains("10000"));
     }
 
-    // Тестуємо збереження всіх літаків у файл (інтеграційно, якщо база доступна)
     @Test
     void testSaveAllAircraftsToFile() {
         boolean result = fileManager.saveAllAircraftsToFile(testFileName);
@@ -61,7 +55,6 @@ class FileManagerTest {
         File file = new File(testFileName);
         assertTrue(file.exists(), "Файл повинен існувати після збереження");
 
-        // Перевіримо, чи файл не порожній
         try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
             String header = reader.readLine();
             assertNotNull(header, "Файл повинен містити заголовок");

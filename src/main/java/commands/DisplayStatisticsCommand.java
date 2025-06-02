@@ -12,10 +12,9 @@ public class DisplayStatisticsCommand implements Command {
 
     @Override
     public void execute() {
-        // Повертаємо текст статистики
         String statisticsText = airline.getStatisticsText();
         LoggerManager.logInfo("Statistics retrieved for display.");
-        // Відображення відбуватиметься в MainApp
+
     }
 
     public String getStatisticsText() {

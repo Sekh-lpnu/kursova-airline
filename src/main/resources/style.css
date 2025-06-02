@@ -11,9 +11,9 @@
     -fx-font-family: "Segoe UI", sans-serif;
 }
 
-/* Стиль кнопок у головному вікні */
+
 .button {
-    -fx-background-color: #e6d5b8; /* Бежевий для кнопок */
+    -fx-background-color: #e6d5b8;
     -fx-text-fill: #3c2f2f;
     -fx-font-size: 14px;
     -fx-font-weight: bold;
@@ -25,18 +25,18 @@
 }
 
 .button:hover {
-    -fx-background-color: #d9c4a0; /* Темніший бежевий при наведенні */
+    -fx-background-color: #d9c4a0;
     -fx-scale-x: 1.05;
     -fx-scale-y: 1.05;
 }
 
 .button:pressed {
-    -fx-background-color: #c9b38c; /* Ще темніший бежевий при натисканні */
+    -fx-background-color: #c9b38c;
     -fx-scale-x: 0.95;
     -fx-scale-y: 0.95;
 }
 
-/* Стиль для контейнера таблиці */
+
 .table-container {
     -fx-max-width: 1000px;
     -fx-pref-width: 800px;
@@ -45,9 +45,9 @@
     -fx-halignment: center;
 }
 
-/* Стиль для таблиці */
+
 .table-view {
-    -fx-background-color: #e6d5b8; /* Бежевий фон для таблиці */
+    -fx-background-color: #e6d5b8;
     -fx-table-cell-border-color: transparent;
     -fx-table-header-border-color: transparent;
     -fx-padding: 5;
@@ -60,79 +60,74 @@
     -fx-max-width: 100%;
 }
 
-/* Стиль для заголовка таблиці */
 .table-view .column-header-background {
-    -fx-background-color: linear-gradient(to bottom, #5c4033, #3c2f2f); /* Градієнт від світлого шоколадного до темного */
+    -fx-background-color: linear-gradient(to bottom, #5c4033, #3c2f2f);
     -fx-background-radius: 5 5 0 0;
     -fx-padding: 0 0 5 0;
     -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.15), 4, 0, 0, 1);
 }
 
-/* Стиль для заголовків стовпців */
 .table-view .column-header, .table-view .filler {
     -fx-background-color: transparent;
     -fx-border-width: 0 0 1 0;
     -fx-border-color: transparent transparent derive(#5c4033, 80%) transparent;
 }
 
-/* Стиль для тексту в заголовках */
+
 .table-view .column-header .label {
     -fx-font-size: 13pt;
     -fx-font-family: "Segoe UI Semibold";
-    -fx-text-fill: #e6d5b8; /* Бежевий текст */
+    -fx-text-fill: #e6d5b8;
     -fx-alignment: center;
     -fx-opacity: 1;
 }
 
-/* Стиль для комірок таблиці */
+
 .table-view .table-cell {
     -fx-font-size: 12pt;
     -fx-font-family: "Segoe UI";
-    -fx-text-fill: #3c2f2f; /* Шоколадний текст */
+    -fx-text-fill: #3c2f2f;
     -fx-alignment: center;
     -fx-padding: 5 10;
     -fx-text-overrun: ellipsis;
 }
 
-/* Стиль для вибраного рядка */
+
 .table-row-cell:selected {
-    -fx-background-color: #5c4033; /* Світліший шоколадний для виділення */
+    -fx-background-color: #5c4033;
     -fx-background-insets: 0;
     -fx-background-radius: 1;
 }
 
-/* Стиль для тексту у вибраному рядку */
+
 .table-row-cell:selected .table-cell {
     -fx-text-fill: #e6d5b8;
 }
 
-/* Стиль для чергування рядків */
+
 .table-row-cell:odd {
-    -fx-background-color: #e6d5b8; /* Бежевий для непарних */
+    -fx-background-color: #e6d5b8;
 }
 
 .table-row-cell:even {
-    -fx-background-color: #f0e4c8; /* Світліший бежевий для парних */
+    -fx-background-color: #f0e4c8;
 }
 
-/* Стиль для наведення на рядок */
 .table-row-cell:hover {
-    -fx-background-color: #d9c4a0; /* Темніший бежевий при наведенні */
+    -fx-background-color: #d9c4a0;
 }
 
-/* Стиль для прокрутки */
 .table-view .scroll-bar:vertical {
     -fx-background-color: transparent;
 }
 
 .table-view .scroll-bar:vertical .thumb {
-    -fx-background-color: #5c4033; /* Шоколадний скролбар */
+    -fx-background-color: #5c4033;
     -fx-background-radius: 5em;
 }
 
-/* Стиль для всіх діалогових вікон (Dialog і Alert) */
 .dialog-pane {
-    -fx-background-color: #e6d5b8; /* Бежевий фон для вікон */
+    -fx-background-color: #e6d5b8;
     -fx-border-color: #5c4033;
     -fx-border-width: 3px;
     -fx-border-radius: 0px;
@@ -141,50 +136,50 @@
     -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.15), 6, 0, 2, 2);
 }
 
-/* Стиль для діалогових вікон помилок */
+
 .dialog-pane.error-dialog {
-    -fx-border-color: #a33939; /* Темно-червоний для помилок */
+    -fx-border-color: #a33939;
 }
 
-/* Стиль для заголовка діалогового вікна */
+
 .dialog-pane .header-panel {
     -fx-background-color: #5c4033;
     -fx-padding: 10px;
     -fx-background-radius: 10px 10px 0 0;
 }
 
-/* Стиль для заголовка вікон помилок */
+
 .dialog-pane.error-dialog .header-panel {
     -fx-background-color: #a33939;
 }
 
-/* Стиль для тексту заголовка */
+
 .dialog-pane .header-panel .label {
     -fx-font-family: "Segoe UI Semibold";
     -fx-font-size: 16px;
     -fx-text-fill: #e6d5b8;
 }
 
-/* Стиль для тексту заголовка вікон помилок */
+
 .dialog-pane.error-dialog .header-panel .label {
     -fx-text-fill: #f5e6e6;
 }
 
-/* Стиль для вмісту діалогового вікна */
+
 .dialog-pane .content {
     -fx-font-family: "Segoe UI";
     -fx-font-size: 14px;
     -fx-text-fill: #3c2f2f;
 }
 
-/* Стиль для міток у діалоговому вікні */
+
 .dialog-pane .label {
     -fx-font-family: "Segoe UI";
     -fx-font-size: 14px;
     -fx-text-fill: #3c2f2f;
 }
 
-/* Стиль для текстових полів у діалоговому вікні */
+
 .dialog-pane .text-field {
     -fx-background-color: #f0e4c8;
     -fx-border-color: #5c4033;
@@ -196,17 +191,17 @@
 }
 
 .dialog-pane .text-field:focused {
-    -fx-border-color: #7a5540; /* Світліший шоколадний при фокусі */
+    -fx-border-color: #7a5540;
     -fx-border-width: 2px;
 }
 
-/* Стиль для текстових полів із помилкою */
+
 .dialog-pane .text-field.error {
     -fx-border-color: #a33939;
     -fx-background-color: #f5d7d7;
 }
 
-/* Стиль для випадаючого списку */
+
 .dialog-pane .combo-box {
     -fx-background-color: #f0e4c8;
     -fx-border-color: #5c4033;
@@ -219,7 +214,7 @@
     -fx-text-fill: #3c2f2f;
 }
 
-/* Стиль для кнопок у діалоговому вікні */
+
 .dialog-pane .button {
     -fx-background-color: #3c2f2f;
     -fx-text-fill: #e6d5b8;
@@ -244,7 +239,7 @@
     -fx-scale-y: 0.95;
 }
 
-/* Стиль для контейнера статистики */
+
 .stats-container {
     -fx-background-color: #e6d5b8;
     -fx-border-color: #5c4033;
@@ -256,7 +251,7 @@
     -fx-alignment: center;
 }
 
-/* Стиль для заголовка статистики */
+
 .stats-title {
     -fx-font-family: "Segoe UI Semibold";
     -fx-font-size: 18px;
@@ -266,7 +261,7 @@
     -fx-border-color: derive(#5c4033, 80%);
 }
 
-/* Стиль для рядка статистики */
+
 .stat-row {
     -fx-padding: 8px;
 
@@ -280,7 +275,7 @@
     -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.12), 4, 0, 1, 1);
 }
 
-/* Стиль для мітки статистики */
+
 .stat-label {
     -fx-font-family: "Segoe UI";
     -fx-font-size: 14px;

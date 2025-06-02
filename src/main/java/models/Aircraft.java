@@ -1,4 +1,4 @@
-package aircraft;
+package models;
 
 public class Aircraft {
     private static int idCounter = 1;

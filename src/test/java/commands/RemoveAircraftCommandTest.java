@@ -24,57 +24,38 @@ public class RemoveAircraftCommandTest {
 
     @Test
     void testExecuteShouldShowMessageWhenAircraftRemoved() {
-        // Arrange
         int aircraftId = 1;
 
-        // Мокаємо метод removeAircraft, щоб він повертав true (літак видалений)
         when(airlineMock.removeAircraft(aircraftId)).thenReturn(true);
-
-        // Створюємо команду
         removeAircraftCommand = new RemoveAircraftCommand(airlineMock, aircraftId, messageDisplayMock);
 
-        // Act
         removeAircraftCommand.execute();
 
-        // Assert
         verify(messageDisplayMock, times(1)).showMessage("Літак з ID " + aircraftId + " успішно видалено.");
         verify(airlineMock, times(1)).removeAircraft(aircraftId);
     }
 
     @Test
     void testExecuteShouldShowMessageWhenAircraftNotFound() {
-        // Arrange
         int aircraftId = 1;
 
-        // Мокаємо метод removeAircraft, щоб він повертав false (літак не знайдений)
         when(airlineMock.removeAircraft(aircraftId)).thenReturn(false);
-
-        // Створюємо команду
         removeAircraftCommand = new RemoveAircraftCommand(airlineMock, aircraftId, messageDisplayMock);
 
-        // Act
         removeAircraftCommand.execute();
 
-        // Assert
         verify(messageDisplayMock, times(1)).showMessage("Літак з ID " + aircraftId + " не знайдено.");
         verify(airlineMock, times(1)).removeAircraft(aircraftId);
     }
 
     @Test
     void testExecuteShouldCallRemoveAircraft() {
-        // Arrange
         int aircraftId = 1;
 
-        // Мокаємо метод removeAircraft, щоб уникнути неочікуваної поведінки
         when(airlineMock.removeAircraft(aircraftId)).thenReturn(false);
-
-        // Створюємо команду
         removeAircraftCommand = new RemoveAircraftCommand(airlineMock, aircraftId, messageDisplayMock);
-
-        // Act
         removeAircraftCommand.execute();
 
-        // Assert
         verify(airlineMock, times(1)).removeAircraft(aircraftId);
     }
     @AfterAll

@@ -1,9 +1,8 @@
 package commands;
 
 import manager.Airline;
-import aircraft.Aircraft;
+import models.Aircraft;
 import display.MessageDisplay;
-import display.JOptionPaneMessageDisplay;
 
 import java.util.List;
 

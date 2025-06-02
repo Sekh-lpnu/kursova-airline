@@ -1,4 +1,4 @@
-package aircraft;
+package models;
 
 import org.junit.jupiter.api.Test;
 
@@ -6,7 +6,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class AircraftTest {
 
-    // Створення простого класу-нащадка для тестування
     static class TestAircraft extends Aircraft {
         public TestAircraft(String model, double range, double fuelConsumptionPerUnit) {
             super(model, range, fuelConsumptionPerUnit);

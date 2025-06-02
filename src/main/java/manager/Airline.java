@@ -1,14 +1,13 @@
 package manager;
 
-import aircraft.Aircraft;
-import aircraft.CargoAircraft;
-import aircraft.PassengerAircraft;
-import aircraft.PrivateJet;
+import models.Aircraft;
+import models.CargoAircraft;
+import models.PassengerAircraft;
+import models.PrivateJet;
 import database.DatabaseManager;
-import gui.AircraftListUpdater; // Додано імпорт
+import gui.AircraftListUpdater;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import javafx.scene.control.TableView;
 import utils.Statistics;
 
 import java.sql.*;
@@ -18,14 +17,13 @@ import java.util.List;
 public class Airline {
 
     private List<Aircraft> aircraftList = new ArrayList<>();
-    private final AircraftListUpdater updater; // Додано поле для AircraftListUpdater
+    private final AircraftListUpdater updater;
 
     public Airline(AircraftListUpdater updater) {
         this.updater = updater;
         loadAircraftsFromDatabase();
     }
 
-    // Додавання літака та збереження в базу даних
     public void addAircraft(String model, double range, double fuelConsumptionPerUnit,
                                     int passengerCapacity, double cargoCapacity, int aircraftType) {
         String query = "INSERT INTO aircrafts (model, range, fuelConsumptionPerUnit, type, passengerCapacity, cargoCapacity) " +
@@ -83,7 +81,6 @@ public class Airline {
         }
     }
 
-    // Видалення літака за id
     public boolean removeAircraft(int id) {
         String query = "DELETE FROM aircrafts WHERE id = ?";
 
@@ -108,7 +105,6 @@ public class Airline {
         }
     }
 
-    // Метод сортування за дальністю
     public List<Aircraft> sortAircraftByRange(int sortOrder) {
         String query = "SELECT * FROM aircrafts";
 
@@ -159,7 +155,6 @@ public class Airline {
         return result;
     }
 
-    // Пошук літаків за межами споживання пального
     public List<Aircraft> findAircraftByFuel(double minFuel, double maxFuel) {
         List<Aircraft> result = new ArrayList<>();
         String query = "SELECT * FROM aircrafts WHERE fuelConsumptionPerUnit BETWEEN ? AND ?";
@@ -202,12 +197,10 @@ public class Airline {
         return result;
     }
 
-    // Оновлений метод для отримання ObservableList
     public ObservableList<Aircraft> getAircraftListObservable() {
         return FXCollections.observableArrayList(getAircraftList());
     }
 
-    // Отримати всі літаки з БД
     public List<Aircraft> getAircraftList() {
         List<Aircraft> list = new ArrayList<>();
         String query = "SELECT * FROM aircrafts";
@@ -248,7 +241,6 @@ public class Airline {
         return statistics.generateStatisticsText(this);
     }
 
-    // Завантаження літаків з бази даних під час ініціалізації
     private void loadAircraftsFromDatabase() {
         String query = "SELECT * FROM aircrafts";
         try (Connection connection = DatabaseManager.getConnection();

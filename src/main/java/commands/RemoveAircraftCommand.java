@@ -15,8 +15,6 @@ public class RemoveAircraftCommand implements Command {
         this.messageDisplay = messageDisplay;
     }
 
-
-
     @Override
     public void execute() {
         boolean removed = airline.removeAircraft(aircraftId);

@@ -1,5 +1,5 @@
 <configuration>
-    <!-- Апендер для інформаційних повідомлень -->
+
     <appender name="INFO_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>logs/info.log</file>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
@@ -16,7 +16,6 @@
         </filter>
     </appender>
 
-    <!-- Апендер для помилок -->
     <appender name="ERROR_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>logs/error.log</file>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
@@ -31,14 +30,12 @@
         </filter>
     </appender>
 
-    <!-- Консольний апендер -->
     <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
             <pattern>%d{yyyy-MM-dd HH:mm:ss} [%-5level] %logger{36} - %msg%n</pattern>
         </encoder>
     </appender>
 
-    <!-- Логер для всіх повідомлень -->
     <root level="info">
         <appender-ref ref="CONSOLE" />
         <appender-ref ref="INFO_FILE" />

@@ -1,13 +1,11 @@
 package utils;
 
-import aircraft.Aircraft;
-import aircraft.CargoAircraft;
-import aircraft.PassengerAircraft;
-import aircraft.PrivateJet;
-import database.TestDatabaseUtils;
+import models.Aircraft;
+import models.CargoAircraft;
+import models.PassengerAircraft;
+import models.PrivateJet;
 import manager.Airline;
 import manager.LoggerManager;
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -15,7 +13,6 @@ import org.mockito.Mock;
 import org.mockito.MockedStatic;
 import org.mockito.junit.jupiter.MockitoExtension;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
@@ -38,14 +35,11 @@ public class StatisticsTest {
 
     @Test
     public void testGenerateStatisticsWithEmptyAircraftList() {
-        // Arrange
         when(airline.getAircraftList()).thenReturn(Collections.emptyList());
 
-        // Act
         try (MockedStatic<LoggerManager> loggerManagerMock = mockStatic(LoggerManager.class)) {
             String result = statistics.generateStatisticsText(airline);
 
-            // Assert
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Start generating statistics for 0 aircrafts."));
             loggerManagerMock.verify(() -> LoggerManager.logInfo(contains("Generated statistics:")));
 
@@ -57,7 +51,6 @@ public class StatisticsTest {
 
     @Test
     public void testGenerateStatisticsWithPassengerAircraftOnly() {
-        // Arrange
         PassengerAircraft aircraft1 = mock(PassengerAircraft.class);
         when(aircraft1.getModel()).thenReturn("Boeing 737");
         when(aircraft1.getPassengerCapacity()).thenReturn(180);
@@ -71,11 +64,9 @@ public class StatisticsTest {
         List<Aircraft> aircraftList = Arrays.asList(aircraft1, aircraft2);
         when(airline.getAircraftList()).thenReturn(aircraftList);
 
-        // Act
         try (MockedStatic<LoggerManager> loggerManagerMock = mockStatic(LoggerManager.class)) {
             String result = statistics.generateStatisticsText(airline);
 
-            // Assert
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Start generating statistics for 2 aircrafts."));
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Processing passenger aircraft: Boeing 737"));
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Processing passenger aircraft: Airbus A320"));
@@ -89,7 +80,6 @@ public class StatisticsTest {
 
     @Test
     public void testGenerateStatisticsWithCargoAircraftOnly() {
-        // Arrange
         CargoAircraft aircraft1 = mock(CargoAircraft.class);
         when(aircraft1.getModel()).thenReturn("Boeing 747F");
         when(aircraft1.getCargoCapacity()).thenReturn(120.0);
@@ -101,11 +91,9 @@ public class StatisticsTest {
         List<Aircraft> aircraftList = Arrays.asList(aircraft1, aircraft2);
         when(airline.getAircraftList()).thenReturn(aircraftList);
 
-        // Act
         try (MockedStatic<LoggerManager> loggerManagerMock = mockStatic(LoggerManager.class)) {
             String result = statistics.generateStatisticsText(airline);
 
-            // Assert
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Start generating statistics for 2 aircrafts."));
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Processing cargo aircraft: Boeing 747F"));
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Processing cargo aircraft: Antonov An-124"));
@@ -119,7 +107,6 @@ public class StatisticsTest {
 
     @Test
     public void testGenerateStatisticsWithPrivateJetsOnly() {
-        // Arrange
         PrivateJet aircraft1 = mock(PrivateJet.class);
         when(aircraft1.getModel()).thenReturn("Gulfstream G650");
         when(aircraft1.getPassengerCapacity()).thenReturn(19);
@@ -133,11 +120,9 @@ public class StatisticsTest {
         List<Aircraft> aircraftList = Arrays.asList(aircraft1, aircraft2);
         when(airline.getAircraftList()).thenReturn(aircraftList);
 
-        // Act
         try (MockedStatic<LoggerManager> loggerManagerMock = mockStatic(LoggerManager.class)) {
             String result = statistics.generateStatisticsText(airline);
 
-            // Assert
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Start generating statistics for 2 aircrafts."));
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Processing private jet: Gulfstream G650"));
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Processing private jet: Bombardier Global 7500"));
@@ -151,7 +136,6 @@ public class StatisticsTest {
 
     @Test
     public void testGenerateStatisticsWithMixedAircraftTypes() {
-        // Arrange
         PassengerAircraft passengerAircraft = mock(PassengerAircraft.class);
         when(passengerAircraft.getModel()).thenReturn("Boeing 787");
         when(passengerAircraft.getPassengerCapacity()).thenReturn(300);
@@ -169,11 +153,9 @@ public class StatisticsTest {
         List<Aircraft> aircraftList = Arrays.asList(passengerAircraft, cargoAircraft, privateJet);
         when(airline.getAircraftList()).thenReturn(aircraftList);
 
-        // Act
         try (MockedStatic<LoggerManager> loggerManagerMock = mockStatic(LoggerManager.class)) {
             String result = statistics.generateStatisticsText(airline);
 
-            // Assert
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Start generating statistics for 3 aircrafts."));
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Processing passenger aircraft: Boeing 787"));
             loggerManagerMock.verify(() -> LoggerManager.logInfo("Processing cargo aircraft: Boeing 777F"));
@@ -190,7 +172,6 @@ public class StatisticsTest {
 
     @Test
     public void testFormatting() {
-        // Arrange
         PassengerAircraft passengerAircraft = mock(PassengerAircraft.class);
         when(passengerAircraft.getModel()).thenReturn("Airbus A380");
         when(passengerAircraft.getPassengerCapacity()).thenReturn(525);
@@ -199,12 +180,9 @@ public class StatisticsTest {
         List<Aircraft> aircraftList = Collections.singletonList(passengerAircraft);
         when(airline.getAircraftList()).thenReturn(aircraftList);
 
-        // Act
         try (MockedStatic<LoggerManager> loggerManagerMock = mockStatic(LoggerManager.class)) {
             String result = statistics.generateStatisticsText(airline);
 
-            // Assert
-            // Перевіряємо форматування чисел, особливо вантажної місткості з двома десятковими знаками
             assertTrue(result.contains("Загальна кількість літаків: 1"));
             assertTrue(result.contains("Загальна пасажирська місткість: 525"));
             assertTrue(result.contains("Загальна вантажна місткість: 12,35 т"));

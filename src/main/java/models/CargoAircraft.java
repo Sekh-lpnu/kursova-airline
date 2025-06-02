@@ -1,15 +1,13 @@
-package aircraft;
+package models;
 
 public class CargoAircraft extends Aircraft {
     private final double cargoCapacity;
 
-    // Конструктор для нових літаків
     public CargoAircraft(String model, double range, double fuelConsumptionPerUnit, double cargoCapacity) {
         super(model, range, fuelConsumptionPerUnit);
         this.cargoCapacity = cargoCapacity;
     }
 
-    // Конструктор для літаків із бази даних (із заданим ID)
     public CargoAircraft(int id, String model, double range, double fuelConsumptionPerUnit, double cargoCapacity) {
         super(id, model, range, fuelConsumptionPerUnit);
         this.cargoCapacity = cargoCapacity;

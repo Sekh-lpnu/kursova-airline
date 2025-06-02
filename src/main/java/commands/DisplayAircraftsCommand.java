@@ -3,11 +3,11 @@ package commands;
 import manager.Airline;
 import javafx.scene.control.TableView;
 import javafx.collections.ObservableList;
-import aircraft.Aircraft;
+import models.Aircraft;
 
 public class DisplayAircraftsCommand implements Command {
     private final Airline airline;
-    private final TableView<Aircraft> aircraftTableView; // Використовуємо TableView
+    private final TableView<Aircraft> aircraftTableView;
 
     public DisplayAircraftsCommand(Airline airline, TableView<Aircraft> aircraftTableView) {
         this.airline = airline;
@@ -16,8 +16,7 @@ public class DisplayAircraftsCommand implements Command {
 
     @Override
     public void execute() {
-        // Оновлюємо TableView, передаючи список літаків з Airline
         ObservableList<Aircraft> aircraftList = airline.getAircraftListObservable();
-        aircraftTableView.setItems(aircraftList); // Оновлюємо таблицю літаків
+        aircraftTableView.setItems(aircraftList);
     }
 }

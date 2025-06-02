@@ -1,4 +1,4 @@
-package aircraft;
+package models;
 
 import org.junit.jupiter.api.Test;
 
@@ -11,10 +11,8 @@ class CargoAircraftTest {
 
     @Test
     void testCargoAircraftInitialization() {
-        // Створюємо вантажний літак
         CargoAircraft cargoAircraft = new CargoAircraft("Boeing 747", 12000, 3.5, 50000);
 
-        // Перевіряємо, чи правильно ініціалізовані поля
         assertEquals("Boeing 747", cargoAircraft.getModel());
         assertEquals(12000, cargoAircraft.getRange());
         assertEquals(3.5, cargoAircraft.getFuelConsumptionPerUnit());
@@ -23,10 +21,8 @@ class CargoAircraftTest {
 
     @Test
     void testCalculateFuelConsumption() {
-        // Створюємо вантажний літак
         CargoAircraft cargoAircraft = new CargoAircraft("Boeing 747", 12000, 3.5, 50000);
 
-        // Розрахунок споживання пального
         double expectedFuelConsumption = 12000 * 3.5;
         assertEquals(expectedFuelConsumption, cargoAircraft.calculateFuelConsumption());
     }
@@ -43,7 +39,6 @@ class CargoAircraftTest {
         assertTrue(actual.contains("Вантажопідйомність: 8000.0"));
         assertTrue(actual.contains("Загальне споживання пального:"));
 
-        // Перевірка, що число 14000 (або близьке) є у рядку (регуляркою або іншим способом)
         Pattern pattern = Pattern.compile("Загальне споживання пального: ([0-9.]+)");
         Matcher matcher = pattern.matcher(actual);
         assertTrue(matcher.find(), "Не знайдено споживання пального у рядку");
@@ -56,10 +51,8 @@ class CargoAircraftTest {
 
     @Test
     void testGetCargoCapacity() {
-        // Створюємо вантажний літак
         CargoAircraft cargoAircraft = new CargoAircraft("Airbus A330", 8000, 4.0, 60000);
 
-        // Перевіряємо, чи правильно повертається вантажопідйомність
         assertEquals(60000, cargoAircraft.getCargoCapacity());
     }
 }
